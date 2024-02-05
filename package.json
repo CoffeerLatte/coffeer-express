@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/CoffeerLatte/coffeer-express/issues"
   },
-  "homepage": "https://github.com/CoffeerLatte/coffeer-express#readme"
+  "homepage": "https://github.com/CoffeerLatte/coffeer-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
