@@ -1,0 +1,25 @@
+{
+  "name": "coffeer-express",
+  "version": "0.1.0",
+  "description": "my js express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoffeerLatte/coffeer-express.git"
+  },
+  "keywords": [
+    "js",
+    "server",
+    "coffeer",
+    "express"
+  ],
+  "author": "CoffeerLatte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoffeerLatte/coffeer-express/issues"
+  },
+  "homepage": "https://github.com/CoffeerLatte/coffeer-express#readme"
+}
